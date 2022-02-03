@@ -1,3 +1,5 @@
+// convert centimeter to meter 
+// ===============================
 //input
 const centimeters = 123;
 // function 

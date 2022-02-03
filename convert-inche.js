@@ -1,3 +1,5 @@
+// convert feet to inche 
+// =====================================
 // input
 const  feets = 1.5;
 // function 
