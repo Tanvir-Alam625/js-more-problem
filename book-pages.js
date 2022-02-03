@@ -1,4 +1,5 @@
-// Page requirment on three books 
+// Page requirment on three books calculate total pages our books
+// ==========================================================
 // input 
 const Mathemetics = 1;
 const Bangla = 0;
